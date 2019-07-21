@@ -1,0 +1,7 @@
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Battleships v2\Battleships v2\bin\Debug\Battleships v2.exe.config
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Battleships v2\Battleships v2\bin\Debug\Battleships v2.exe
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Battleships v2\Battleships v2\bin\Debug\Battleships v2.pdb
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Battleships v2\Battleships v2\obj\Debug\Battleships v2.csprojAssemblyReference.cache
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Battleships v2\Battleships v2\obj\Debug\Battleships v2.csproj.CoreCompileInputs.cache
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Battleships v2\Battleships v2\obj\Debug\Battleships v2.exe
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Battleships v2\Battleships v2\obj\Debug\Battleships v2.pdb
